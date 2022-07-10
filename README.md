@@ -28,7 +28,7 @@ pip install opencv-contrib-python==3.4.2.17 --force-reinstall
 ```
 
 To run by newest version (some features doesn't work like SIFT,...)
-- python 3.9
+- Python 3.9
 - OpenCV 4.5.3
 
 ## Usage

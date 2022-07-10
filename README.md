@@ -12,6 +12,10 @@ GUI:
 
 The project is to implement a simple image stitching app, when we input a set of images with overlapped fields, we expect to obtain a wide seamless panorama.
 
+## Note
+- We have implemented the SIFT algorithm from scratch using Python, however to optimize the execution time in the app we use the API provided by the library.
+- Please feel free to check out our implementation for SIFT by the following link [SIFT Implementation using Python](https://github.com/baophuoc1903/Image_Stitching?fbclid=IwAR0-wnj1MYw_xWGjXSaFMScA58ZWn5lynJu5vPBNcBhCLV8oXITzKUhzBQU)
+
 ## Dependency
 - Numpy
 - Matplotlib
@@ -28,7 +32,7 @@ pip install opencv-contrib-python==3.4.2.17 --force-reinstall
 ```
 
 To run by newest version (some features doesn't work like SIFT,...)
-- python 3.9
+- Python 3.9
 - OpenCV 4.5.3
 
 ## Usage

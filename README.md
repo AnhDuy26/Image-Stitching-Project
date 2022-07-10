@@ -59,7 +59,7 @@ To run by newest version (some features doesn't work like SIFT,...)
 ## Other examples
 
 Result for 4 pics taken from 5th floor FPT University:
-![Dom A](https://github.com/AnhDuy26/TestStitching/blob/master/Images/Result%20multiple%20stitching/result_domA.jpg)
+![Dom A](https://github.com/AnhDuy26/Image-Stitching-Project/blob/master/Images/Result%20multiple%20stitching/result_domA.jpg)
 
 Result for 3 pics taken from classroom at FPT University:
 ![FPT](https://github.com/AnhDuy26/Image-Stitching-Project/blob/master/Images/Result%20multiple%20stitching/result_AI1502.jpg)
